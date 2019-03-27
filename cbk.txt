@@ -1,0 +1,16 @@
+Full name:    Carsten Blaabjerg Knudsen
+Address:      Hadsten, Denmark
+Occupation:   Systems Engineer, SW developer,
+              Sysadm at large, Shell programmer par excellence
+Gender:       male
+Birthday:     07-Jan-19something
+Interests:    Making, playing and recording music
+              Fiddling with old Un*x boxes :)
+              Running in the woods (less during winter)
+              Hanging around strange 'Net forums (less during summer)
+Computers:    Around a dozen or so ...
+Instruments:  Do.
+______________________________________.ooo_CO.O?_ooo._________
+
+#include <generic/std_disclaimer.h>
+
